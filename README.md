@@ -9,3 +9,4 @@ Hello Dev,
 
 ## References
 * [Transact-SQL Reference](https://docs.microsoft.com/en-us/sql/t-sql/language-reference?view=sql-server-2017)
+* [SELECT](https://docs.microsoft.com/en-us/sql/t-sql/queries/select-transact-sql)
