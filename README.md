@@ -12,4 +12,5 @@ Hello Dev,
 
 ## T-SQL 
 * [Transact-SQL Reference](https://docs.microsoft.com/en-us/sql/t-sql/language-reference?view=sql-server-2017)
+* [Data Types](https://docs.microsoft.com/en-us/sql/t-sql/data-types/data-types-transact-sql)
 * [SELECT](https://docs.microsoft.com/en-us/sql/t-sql/queries/select-transact-sql)
