@@ -9,6 +9,7 @@ Hello Dev,
 
 ## SQL Server Architecture
 * [Pages and Extents Architecture Guide](https://docs.microsoft.com/en-us/sql/relational-databases/pages-and-extents-architecture-guide)
+* [Query Processing Architecture Guide](https://docs.microsoft.com/en-us/sql/relational-databases/query-processing-architecture-guide)
 
 ## T-SQL 
 * [Transact-SQL Reference](https://docs.microsoft.com/en-us/sql/t-sql/language-reference?view=sql-server-2017)
