@@ -16,4 +16,5 @@ Hello Dev,
 * [Data Types](https://docs.microsoft.com/en-us/sql/t-sql/data-types/data-types-transact-sql)
 * [SELECT](https://docs.microsoft.com/en-us/sql/t-sql/queries/select-transact-sql)
 * [Operator Precedence](https://docs.microsoft.com/en-us/sql/t-sql/language-elements/operator-precedence-transact-sql?view=sql-server-2017) - NAO (NOT, AND then OR)
+* [Logical Operators](https://docs.microsoft.com/en-us/sql/t-sql/language-elements/logical-operators-transact-sql) - ALL, AND, ANY, BETWEEN, EXISTS, IN, LIKE, NOT, OR and SOME.
 * [The EXCEPT and INTERSECT Operators in SQL Server](https://www.red-gate.com/simple-talk/sql/performance/the-except-and-intersect-operators-in-sql-server/)
