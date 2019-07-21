@@ -7,10 +7,12 @@ Hello Dev,
 > Tip: If applicable, remove the Year from the name of databases eg. AdventureWorks instead of AdventureWorks2017
 3. Apply the [Queries](https://github.com/NajiElKotob/T-SQL_Querying/blob/master/Querying-AdventureWorks.sql) and feel free to [share your feedback](https://github.com/NajiElKotob/T-SQL_Querying/issues)
 
+-----
 ## SQL Server Architecture
 * [Pages and Extents Architecture Guide](https://docs.microsoft.com/en-us/sql/relational-databases/pages-and-extents-architecture-guide)
 * [Query Processing Architecture Guide](https://docs.microsoft.com/en-us/sql/relational-databases/query-processing-architecture-guide)
 
+-----
 ## T-SQL 
 * [Transact-SQL Reference](https://docs.microsoft.com/en-us/sql/t-sql/language-reference?view=sql-server-2017)
 * [Data Types](https://docs.microsoft.com/en-us/sql/t-sql/data-types/data-types-transact-sql)
@@ -19,5 +21,6 @@ Hello Dev,
 * [Logical Operators](https://docs.microsoft.com/en-us/sql/t-sql/language-elements/logical-operators-transact-sql) - ALL, AND, ANY, BETWEEN, EXISTS, IN, LIKE, NOT, OR and SOME.
 * [The EXCEPT and INTERSECT Operators in SQL Server](https://www.red-gate.com/simple-talk/sql/performance/the-except-and-intersect-operators-in-sql-server/)
 
+-----
 ## Quizzes
 * [SQL Quiz - W3Schools](https://www.w3schools.com/quiztest/quiztest.asp?qtest=SQL) - 25 simple questions
