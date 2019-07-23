@@ -957,15 +957,12 @@ SET @h = geography::STGeomFromText('POINT(-122.34900 47.65100)', 4326);
 SELECT @g.STDistance(@h);  
 
 -- https://docs.microsoft.com/en-us/sql/relational-databases/spatial/query-spatial-data-for-nearest-neighbor
-USE AdventureWorks2014  
+USE AdventureWorks 
 GO  
 DECLARE @g geography = 'POINT(-121.626 47.8315)';  
 SELECT TOP(7) SpatialLocation.ToString(), City FROM Person.Address  
 WHERE SpatialLocation.STDistance(@g) IS NOT NULL  
 ORDER BY SpatialLocation.STDistance(@g);  
 
-USE master;  
-GO  
-EXEC sp_datatype_info -9;  
-GO  
+
 
