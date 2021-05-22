@@ -14,6 +14,7 @@ Hello Dev,
 
 -----
 ## T-SQL 
+* [SQL Query Order of Execution](https://www.sisense.com/blog/sql-query-order-of-operations/) - Chris Meier (January 2020)
 * [Transact-SQL Reference](https://docs.microsoft.com/en-us/sql/t-sql/language-reference?view=sql-server-2017)
 * [Data Types](https://docs.microsoft.com/en-us/sql/t-sql/data-types/data-types-transact-sql)
 * [SELECT](https://docs.microsoft.com/en-us/sql/t-sql/queries/select-transact-sql)
